@@ -3,7 +3,7 @@
 This project is the FYP of Yige Zou.
 
 1. File **main.py** is the prototype system of this project. It will
-read the packet data in file **net work.csv**, return the
+read the packet data in file **network traffic.csv**, return the
 classification results in console, and write packet data
 of attacks into file **Alert.txt**.
 2. File **network traffic.csv** initially contains 100
